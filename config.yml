@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "revolmusic.me"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
@@ -11,7 +11,7 @@ menu:
       weight: 10
 
     - identifier: tags
-      name: Tagss
+      name: Tags
       url: /tags/
       weight: 20
 
