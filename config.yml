@@ -11,7 +11,7 @@ menu:
       weight: 10
 
     - identifier: tags
-      name: Tags
+      name: Tagssss
       url: /tags/
       weight: 20
 
